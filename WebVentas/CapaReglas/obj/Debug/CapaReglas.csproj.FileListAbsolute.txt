@@ -1,0 +1,65 @@
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\CapaReglas\bin\Debug\CapaReglas.dll
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\CapaReglas\bin\Debug\CapaReglas.pdb
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\CapaReglas\bin\Debug\CapaDatos.dll
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\CapaReglas\bin\Debug\CapaEntidad.dll
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\CapaReglas\bin\Debug\CapaDatos.pdb
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\CapaReglas\bin\Debug\CapaEntidad.pdb
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\CapaReglas\obj\Debug\CapaReglas.csprojResolveAssemblyReference.cache
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\CapaReglas\obj\Debug\CapaReglas.dll
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\CapaReglas\obj\Debug\CapaReglas.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\CapaReglas\bin\Debug\CapaReglas.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\CapaReglas\bin\Debug\CapaReglas.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\CapaReglas\bin\Debug\CapaDatos.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\CapaReglas\bin\Debug\CapaEntidad.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\CapaReglas\bin\Debug\CapaDatos.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\CapaReglas\bin\Debug\CapaEntidad.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\CapaReglas\obj\Debug\CapaReglas.csprojResolveAssemblyReference.cache
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\CapaReglas\obj\Debug\CapaReglas.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\CapaReglas\obj\Debug\CapaReglas.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\CapaReglas\bin\Debug\CapaReglas.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\CapaReglas\bin\Debug\CapaReglas.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\CapaReglas\bin\Debug\CapaDatos.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\CapaReglas\bin\Debug\CapaEntidad.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\CapaReglas\bin\Debug\CapaDatos.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\CapaReglas\bin\Debug\CapaEntidad.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\CapaReglas\obj\Debug\CapaReglas.csprojResolveAssemblyReference.cache
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\CapaReglas\obj\Debug\CapaReglas.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\CapaReglas\obj\Debug\CapaReglas.pdb
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\CapaReglas\bin\Debug\CapaReglas.dll
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\CapaReglas\bin\Debug\CapaReglas.pdb
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\CapaReglas\bin\Debug\CapaDatos.dll
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\CapaReglas\bin\Debug\CapaEntidad.dll
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\CapaReglas\bin\Debug\CapaDatos.pdb
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\CapaReglas\bin\Debug\CapaEntidad.pdb
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\CapaReglas\obj\Debug\CapaReglas.csprojResolveAssemblyReference.cache
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\CapaReglas\obj\Debug\CapaReglas.dll
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\CapaReglas\obj\Debug\CapaReglas.pdb
+C:\Users\suite-b302\Desktop\WebVentas\CapaReglas\bin\Debug\CapaReglas.dll
+C:\Users\suite-b302\Desktop\WebVentas\CapaReglas\bin\Debug\CapaReglas.pdb
+C:\Users\suite-b302\Desktop\WebVentas\CapaReglas\bin\Debug\CapaDatos.dll
+C:\Users\suite-b302\Desktop\WebVentas\CapaReglas\bin\Debug\CapaEntidad.dll
+C:\Users\suite-b302\Desktop\WebVentas\CapaReglas\bin\Debug\CapaDatos.pdb
+C:\Users\suite-b302\Desktop\WebVentas\CapaReglas\bin\Debug\CapaEntidad.pdb
+C:\Users\suite-b302\Desktop\WebVentas\CapaReglas\obj\Debug\CapaReglas.csprojResolveAssemblyReference.cache
+C:\Users\suite-b302\Desktop\WebVentas\CapaReglas\obj\Debug\CapaReglas.dll
+C:\Users\suite-b302\Desktop\WebVentas\CapaReglas\obj\Debug\CapaReglas.pdb
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\bin\Debug\CapaReglas.dll
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\bin\Debug\CapaReglas.pdb
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\bin\Debug\CapaDatos.dll
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\bin\Debug\CapaEntidad.dll
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\bin\Debug\CapaDatos.pdb
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\bin\Debug\CapaEntidad.pdb
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\obj\Debug\CapaReglas.dll
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\obj\Debug\CapaReglas.pdb
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\obj\Debug\CapaReglas.csprojResolveAssemblyReference.cache
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\bin\Debug\CapaReglas.dll
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\bin\Debug\CapaReglas.pdb
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\bin\Debug\CapaDatos.dll
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\bin\Debug\CapaEntidad.dll
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\bin\Debug\CapaDatos.pdb
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\bin\Debug\CapaEntidad.pdb
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\obj\Debug\CapaReglas.csprojAssemblyReference.cache
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\obj\Debug\CapaReglas.csproj.CoreCompileInputs.cache
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\obj\Debug\CapaReglas.csproj.CopyComplete
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\obj\Debug\CapaReglas.dll
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\CapaReglas\obj\Debug\CapaReglas.pdb

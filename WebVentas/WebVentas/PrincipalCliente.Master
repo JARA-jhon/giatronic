@@ -1,0 +1,85 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PrincipalCliente.master.cs" Inherits="WebVentas.PrincipalCliente" %>
+
+<!DOCTYPE html>
+ <link rel="stylesheet" type="text/css" href="mb/css/metro-bootstrap.css">
+	<link rel="stylesheet" href="mb/docs/font-awesome.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script src="mb/docs/bootstrap-collapse.js"></script>
+<script src="mb/docs/bootstrap-dropdown.js"></script>
+ <script src="mb/docs/bootstrap-transition.js"></script>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+     
+
+<div id="global">
+    </div>
+
+        <div id="menu" class="navbar navbar-inverse navbar-fixed-top">
+        <%-- <label style="font-variant: normal; color: #000000; text-transform: capitalize; font-style: normal; font-weight: bold; font-size: 26px; font-family: 'Arial Black'">GIANTRONIC</label>--%>
+               <div class="navbar-inner">
+		<div class="container" style="width: auto;">
+			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</a>
+			<a href="Iniciocl.aspx" class="brand"><img src="images/logo.png" alt=""></a>
+			<nav class="nav-collapse">
+				<ul class="nav">
+                    <li ><a href="Iniciocl.aspx">Inicio</a></li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Consulta<b class="caret"></b></a>
+						<ul class="dropdown-menu">
+					        <li><a href="EditarPerfil.aspx">Perfil</a></li>
+                            <li><a href="ConsultarPedido.aspx">Pedidos</a></li>                             
+						</ul>
+					</li>
+                    <li><a href="Contactocl.aspx">contácto</a></li>
+                    <li><a href="ConsultarTelevision.aspx">Carrito</a></li>
+                    
+                    <li><asp:LinkButton ID="CerrarSesion" runat="server" CausesValidation="False" onclick="LinkButton1_Click1">Cerrar Sesión</asp:LinkButton></li>        
+                    
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>                       
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+
+                      <li style="text-align:justify;text-transform: uppercase;"> <asp:Label ID="lblUsuario" runat="server" ForeColor="#ffffff"></asp:Label></li>
+                    
+                 </ul>
+			</nav>
+		</div>
+	</div>
+        </div>
+
+   
+       <div id="cabezera">
+             <%--<asp:Label ID="lblUsuario" runat="server" CssClass="style5"></asp:Label>--%>
+        </div>
+        
+      <div>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+
+
+         <div id="pie">            
+            <footer><b><em>GEANTRONIC</em></b> &copy; 2014 - Todos Los Derechos Reservados</footer>
+        </div>
+        
+    </form>
+</body>
+</html>

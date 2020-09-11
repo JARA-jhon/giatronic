@@ -1,0 +1,670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BCB61401-0850-4887-B488-EE43CEC2DD48}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebVentas</RootNamespace>
+    <AssemblyName>WebVentas</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\Nueva carpeta (14)\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>..\..\..\Nueva carpeta (14)\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>..\..\..\Nueva carpeta (14)\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Bienvenida.aspx" />
+    <Content Include="Calendario.aspx" />
+    <Content Include="ConsultarPedido.aspx" />
+    <Content Include="ConsultarTelevision.aspx" />
+    <Content Include="Contactoad.aspx" />
+    <Content Include="Contactocl.aspx" />
+    <Content Include="Contactoem.aspx" />
+    <Content Include="Formulario web1.aspx" />
+    <Content Include="Formulario web2.aspx" />
+    <Content Include="Formulario web3.aspx" />
+    <Content Include="HtmlPage1.html" />
+    <Content Include="inicioadm.aspx" />
+    <Content Include="Inicioem.aspx" />
+    <Content Include="js\inicio\init.js" />
+    <Content Include="js\inicio\jquery.min.js" />
+    <Content Include="js\inicio\jquery.poptrox.min.js" />
+    <Content Include="js\inicio\skel.min.js" />
+    <Content Include="MantenerPedido.aspx" />
+    <Content Include="css\das.css" />
+    <Content Include="css\demo-styles.css" />
+    <Content Include="css\demo-stylescontacto.css" />
+    <Content Include="css\font-awesome.min.css" />
+    <Content Include="css\fullcalendar.css" />
+    <Content Include="css\main.css" />
+    <Content Include="css\galeria.css" />
+    <Content Include="css\styles.css" />
+    <Content Include="DetallePedido.aspx" />
+    <Content Include="fonts\fontawesome\fontawesome-webfont.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\icomoon.dev.svg" />
+    <Content Include="fonts\icomoon.svg" />
+    <Content Include="fonts\Overlock OFL SIL Font License 1.1.txt" />
+    <Content Include="fonts\Overlock-Black-OTF-webfont.svg" />
+    <Content Include="fonts\Overlock-BlackItalic-OTF-webfont.svg" />
+    <Content Include="fonts\Overlock-Bold-OTF-webfont.svg" />
+    <Content Include="fonts\Overlock-BoldItalic-OTF-webfont.svg" />
+    <Content Include="fonts\Overlock-Italic-OTF-webfont.svg" />
+    <Content Include="fonts\Overlock-Regular-OTF-webfont.svg" />
+    <Content Include="fonts\OverlockSC-Regular-webfont.svg" />
+    <Content Include="Fotos.aspx" />
+    <Content Include="gfx\logo.png" />
+    <Content Include="gfx\quote.png" />
+    <Content Include="Chat.html" />
+    <Content Include="images\4589749544.png" />
+    <Content Include="images\4k.jpg" />
+    <Content Include="images\area1\1.jpg" />
+    <Content Include="images\area1\2.jpg" />
+    <Content Include="images\area1\3.jpg" />
+    <Content Include="images\area2\1.jpg" />
+    <Content Include="images\area2\2.jpg" />
+    <Content Include="images\area2\3.jpg" />
+    <Content Include="images\area3\1.jpg" />
+    <Content Include="images\area3\2.jpg" />
+    <Content Include="images\area3\3.jpg" />
+    <Content Include="images\area4\1.jpg" />
+    <Content Include="images\area4\2.jpg" />
+    <Content Include="images\area4\3.jpg" />
+    <Content Include="images\area5\1.jpg" />
+    <Content Include="images\area5\2.jpg" />
+    <Content Include="images\area5\3.jpg" />
+    <Content Include="images\blue.jpg" />
+    <Content Include="images\btn_buscar.png" />
+    <Content Include="images\carrito-compras.jpg" />
+    <Content Include="images\carrito.png" />
+    <Content Include="images\chrome.png" />
+    <Content Include="images\contactenos.jpg" />
+    <Content Include="images\editar.png" />
+    <Content Include="images\eliminar.png" />
+    <Content Include="images\Encabezado.jpg" />
+    <Content Include="images\g+.png" />
+    <Content Include="images\iconmonstr-facebook-4-icon.png" />
+    <Content Include="images\in.png" />
+    <Content Include="images\leer.jpg" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\outlook-128.png" />
+    <Content Include="images\prod1.jpg" />
+    <Content Include="images\prod2.jpg" />
+    <Content Include="images\prod3.jpg" />
+    <Content Include="images\prod4.jpg" />
+    <Content Include="images\prod5.jpg" />
+    <Content Include="images\prod6.jpg" />
+    <Content Include="images\ps4-portada.jpg" />
+    <Content Include="images\readability-128.png" />
+    <Content Include="images\reddit-128.png" />
+    <Content Include="images\seleccionar.png" />
+    <Content Include="images\Tablet.jpg" />
+    <Content Include="images\treehouse-128.png" />
+    <Content Include="images\visualstudio-128.png" />
+    <Content Include="images\watch_dogs_banner-HD.jpg" />
+    <Content Include="images\whatsapp-128.png" />
+    <Content Include="images\windows-128.png" />
+    <Content Include="images\xbox-128.png" />
+    <Content Include="images\youtube-xxl.png" />
+    <Content Include="jsc\bootstrap.min.js" />
+    <Content Include="jsc\custom.js" />
+    <Content Include="jsc\fullcalendar.min.js" />
+    <Content Include="jsc\jquery-1.9.1.min.js" />
+    <Content Include="jsc\jquery-migrate-1.1.1.min.js" />
+    <Content Include="jsc\jquery-ui-1.9.2.min.js" />
+    <Content Include="jsc\jquery.cookie.js" />
+    <Content Include="jsc\modernizr.min.js" />
+    <Content Include="js\Cantarell.font.js" />
+    <Content Include="js\cufon-yui.js" />
+    <Content Include="js\jquery-1.8.2.min.js" />
+    <Content Include="js\jquery.easing.1.3.js" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\modernizr-1.5.min.js" />
+    <Content Include="js\scripts.js" />
+    <Content Include="js\spike-sdk.js.src.js" />
+    <Content Include="mb\basecss.html" />
+    <Content Include="mb\components.html" />
+    <Content Include="mb\css\metro-bootstrap.css" />
+    <Content Include="mb\docs\bootstrap-alert.js" />
+    <Content Include="mb\docs\bootstrap-button.js" />
+    <Content Include="mb\docs\bootstrap-carousel.js" />
+    <Content Include="mb\docs\bootstrap-collapse.js" />
+    <Content Include="mb\docs\bootstrap-dropdown.js" />
+    <Content Include="mb\docs\bootstrap-modal.js" />
+    <Content Include="mb\docs\bootstrap-popover.js" />
+    <Content Include="mb\docs\bootstrap-scrollspy.js" />
+    <Content Include="mb\docs\bootstrap-tab.js" />
+    <Content Include="mb\docs\bootstrap-tooltip.js" />
+    <Content Include="mb\docs\bootstrap-transition.js" />
+    <Content Include="mb\docs\bootstrap-typeahead.js" />
+    <Content Include="mb\docs\font-awesome.css" />
+    <Content Include="mb\docs\jquery-1.8.0.js" />
+    <Content Include="mb\docs\jquery.unobtrusive-ajax.js" />
+    <Content Include="mb\docs\jquery.validate.js" />
+    <Content Include="mb\docs\jquery.validate.unobtrusive.js" />
+    <Content Include="mb\docs\metro-bootstrap\metro-docs.js" />
+    <Content Include="mb\docs\talkslab.png" />
+    <Content Include="mb\docs\twittertile.png" />
+    <Content Include="mb\font\fontawesome-webfont.svg" />
+    <Content Include="mb\img\glyphicons-halflings-white.png" />
+    <Content Include="mb\img\glyphicons-halflings.png" />
+    <Content Include="mb\index.html" />
+    <Content Include="Pdf.aspx" />
+    <Content Include="Pdf1.aspx" />
+    <Content Include="fonts\Overlock-Black-OTF-webfont.eot" />
+    <Content Include="fonts\Overlock-Black-OTF-webfont.ttf" />
+    <Content Include="fonts\Overlock-Black-OTF-webfont.woff" />
+    <Content Include="fonts\Overlock-BlackItalic-OTF-webfont.eot" />
+    <Content Include="fonts\Overlock-BlackItalic-OTF-webfont.ttf" />
+    <Content Include="fonts\Overlock-BlackItalic-OTF-webfont.woff" />
+    <Content Include="fonts\Overlock-Bold-OTF-webfont.eot" />
+    <Content Include="fonts\Overlock-Bold-OTF-webfont.ttf" />
+    <Content Include="fonts\Overlock-Bold-OTF-webfont.woff" />
+    <Content Include="fonts\Overlock-BoldItalic-OTF-webfont.eot" />
+    <Content Include="fonts\Overlock-BoldItalic-OTF-webfont.ttf" />
+    <Content Include="fonts\Overlock-BoldItalic-OTF-webfont.woff" />
+    <Content Include="fonts\Overlock-Italic-OTF-webfont.eot" />
+    <Content Include="fonts\Overlock-Italic-OTF-webfont.ttf" />
+    <Content Include="fonts\Overlock-Italic-OTF-webfont.woff" />
+    <Content Include="fonts\Overlock-Regular-OTF-webfont.eot" />
+    <Content Include="fonts\Overlock-Regular-OTF-webfont.ttf" />
+    <Content Include="fonts\Overlock-Regular-OTF-webfont.woff" />
+    <Content Include="fonts\OverlockSC-Regular-webfont.eot" />
+    <Content Include="fonts\OverlockSC-Regular-webfont.ttf" />
+    <Content Include="fonts\OverlockSC-Regular-webfont.woff" />
+    <Content Include="fonts\fontawesome\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome\FontAwesome.otf" />
+    <Content Include="PrincipalEmpleado.Master" />
+    <Content Include="WebForm1.aspx" />
+    <Content Include="WebForm123.aspx" />
+    <None Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Scripts\jquery.js" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Television.aspx" />
+    <Content Include="EditarPerfil.aspx" />
+    <Content Include="Inicioad.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Inicio.aspx" />
+    <Content Include="Contacto.aspx" />
+    <Content Include="Iniciocl.aspx" />
+    <Content Include="Logueo.aspx" />
+    <Content Include="MantenerCategoria.aspx" />
+    <Content Include="MantenerProveedor.aspx" />
+    <Content Include="MantenerTecnologia.aspx" />
+    <Content Include="MantenerTelevision.aspx" />
+    <Content Include="Nosotros.aspx" />
+    <Content Include="Ofertas.aspx" />
+    <Content Include="PrincipalCliente.Master">
+      <BrowseToURL>~/PrincipalCliente.Master</BrowseToURL>
+    </Content>
+    <Content Include="PrincipalAdministrador.Master" />
+    <Content Include="RegistrarUsuario.aspx" />
+    <Content Include="VerCarrito.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bienvenida.aspx.cs">
+      <DependentUpon>Bienvenida.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bienvenida.aspx.designer.cs">
+      <DependentUpon>Bienvenida.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Calendario.aspx.cs">
+      <DependentUpon>Calendario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Calendario.aspx.designer.cs">
+      <DependentUpon>Calendario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarPedido.aspx.cs">
+      <DependentUpon>ConsultarPedido.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ConsultarPedido.aspx.designer.cs">
+      <DependentUpon>ConsultarPedido.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarTelevision.aspx.cs">
+      <DependentUpon>ConsultarTelevision.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ConsultarTelevision.aspx.designer.cs">
+      <DependentUpon>ConsultarTelevision.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contactoad.aspx.cs">
+      <DependentUpon>Contactoad.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contactoad.aspx.designer.cs">
+      <DependentUpon>Contactoad.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contactocl.aspx.cs">
+      <DependentUpon>Contactocl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contactocl.aspx.designer.cs">
+      <DependentUpon>Contactocl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contactoem.aspx.cs">
+      <DependentUpon>Contactoem.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contactoem.aspx.designer.cs">
+      <DependentUpon>Contactoem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario web1.aspx.cs">
+      <DependentUpon>Formulario web1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Formulario web1.aspx.designer.cs">
+      <DependentUpon>Formulario web1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario web2.aspx.cs">
+      <DependentUpon>Formulario web2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Formulario web2.aspx.designer.cs">
+      <DependentUpon>Formulario web2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario web3.aspx.cs">
+      <DependentUpon>Formulario web3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Formulario web3.aspx.designer.cs">
+      <DependentUpon>Formulario web3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="inicioadm.aspx.cs">
+      <DependentUpon>inicioadm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="inicioadm.aspx.designer.cs">
+      <DependentUpon>inicioadm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Inicioem.aspx.cs">
+      <DependentUpon>Inicioem.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inicioem.aspx.designer.cs">
+      <DependentUpon>Inicioem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MantenerPedido.aspx.cs">
+      <DependentUpon>MantenerPedido.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MantenerPedido.aspx.designer.cs">
+      <DependentUpon>MantenerPedido.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DetallePedido.aspx.cs">
+      <DependentUpon>DetallePedido.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DetallePedido.aspx.designer.cs">
+      <DependentUpon>DetallePedido.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Fotos.aspx.cs">
+      <DependentUpon>Fotos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Fotos.aspx.designer.cs">
+      <DependentUpon>Fotos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pdf.aspx.cs">
+      <DependentUpon>Pdf.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pdf.aspx.designer.cs">
+      <DependentUpon>Pdf.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pdf1.aspx.cs">
+      <DependentUpon>Pdf1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pdf1.aspx.designer.cs">
+      <DependentUpon>Pdf1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PrincipalEmpleado.Master.cs">
+      <DependentUpon>PrincipalEmpleado.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PrincipalEmpleado.Master.designer.cs">
+      <DependentUpon>PrincipalEmpleado.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Television.aspx.cs">
+      <DependentUpon>Television.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Television.aspx.designer.cs">
+      <DependentUpon>Television.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditarPerfil.aspx.cs">
+      <DependentUpon>EditarPerfil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditarPerfil.aspx.designer.cs">
+      <DependentUpon>EditarPerfil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Inicioad.aspx.cs">
+      <DependentUpon>Inicioad.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inicioad.aspx.designer.cs">
+      <DependentUpon>Inicioad.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.aspx.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inicio.aspx.designer.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contacto.aspx.cs">
+      <DependentUpon>Contacto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contacto.aspx.designer.cs">
+      <DependentUpon>Contacto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Iniciocl.aspx.cs">
+      <DependentUpon>Iniciocl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Iniciocl.aspx.designer.cs">
+      <DependentUpon>Iniciocl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Logueo.aspx.cs">
+      <DependentUpon>Logueo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Logueo.aspx.designer.cs">
+      <DependentUpon>Logueo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MantenerCategoria.aspx.cs">
+      <DependentUpon>MantenerCategoria.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MantenerCategoria.aspx.designer.cs">
+      <DependentUpon>MantenerCategoria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MantenerProveedor.aspx.cs">
+      <DependentUpon>MantenerProveedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MantenerProveedor.aspx.designer.cs">
+      <DependentUpon>MantenerProveedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MantenerTecnologia.aspx.cs">
+      <DependentUpon>MantenerTecnologia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MantenerTecnologia.aspx.designer.cs">
+      <DependentUpon>MantenerTecnologia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MantenerTelevision.aspx.cs">
+      <DependentUpon>MantenerTelevision.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MantenerTelevision.aspx.designer.cs">
+      <DependentUpon>MantenerTelevision.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Nosotros.aspx.cs">
+      <DependentUpon>Nosotros.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Nosotros.aspx.designer.cs">
+      <DependentUpon>Nosotros.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Ofertas.aspx.cs">
+      <DependentUpon>Ofertas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ofertas.aspx.designer.cs">
+      <DependentUpon>Ofertas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PrincipalAdministrador.Master.cs">
+      <DependentUpon>PrincipalAdministrador.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PrincipalAdministrador.Master.designer.cs">
+      <DependentUpon>PrincipalAdministrador.Master</DependentUpon>
+    </Compile>
+    <Compile Include="PrincipalCliente.Master.cs">
+      <DependentUpon>PrincipalCliente.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PrincipalCliente.Master.designer.cs">
+      <DependentUpon>PrincipalCliente.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PrincipalUsuario.Master.cs">
+      <DependentUpon>PrincipalUsuario.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PrincipalUsuario.Master.designer.cs">
+      <DependentUpon>PrincipalUsuario.Master</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarUsuario.aspx.cs">
+      <DependentUpon>RegistrarUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RegistrarUsuario.aspx.designer.cs">
+      <DependentUpon>RegistrarUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VerCarrito.aspx.cs">
+      <DependentUpon>VerCarrito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VerCarrito.aspx.designer.cs">
+      <DependentUpon>VerCarrito.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm123.aspx.cs">
+      <DependentUpon>WebForm123.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm123.aspx.designer.cs">
+      <DependentUpon>WebForm123.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="PrincipalUsuario.Master" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\icomoon.eot" />
+    <Content Include="fonts\icomoon.ttf" />
+    <Content Include="fonts\icomoon.woff" />
+    <Content Include="mb\font\fontawesome-webfont.eot" />
+    <Content Include="mb\font\fontawesome-webfont.ttf" />
+    <Content Include="mb\font\fontawesome-webfont.woff" />
+    <Content Include="mb\font\FontAwesome.otf" />
+    <Content Include="mb\img\Thumbs.db" />
+    <Content Include="mb\less\accordion.less" />
+    <Content Include="mb\less\alerts.less" />
+    <Content Include="mb\less\bootstrap.less" />
+    <Content Include="mb\less\breadcrumbs.less" />
+    <Content Include="mb\less\button-groups.less" />
+    <Content Include="mb\less\buttons.less" />
+    <Content Include="mb\less\carousel.less" />
+    <Content Include="mb\less\close.less" />
+    <Content Include="mb\less\code.less" />
+    <Content Include="mb\less\component-animations.less" />
+    <Content Include="mb\less\dropdowns.less" />
+    <Content Include="mb\less\forms.less" />
+    <Content Include="mb\less\grid.less" />
+    <Content Include="mb\less\hero-unit.less" />
+    <Content Include="mb\less\labels-badges.less" />
+    <Content Include="mb\less\layouts.less" />
+    <Content Include="mb\less\media.less" />
+    <Content Include="mb\less\metro-bootstrap\alerts.less" />
+    <Content Include="mb\less\metro-bootstrap\breadcrumbs.less" />
+    <Content Include="mb\less\metro-bootstrap\button-groups.less" />
+    <Content Include="mb\less\metro-bootstrap\buttons.less" />
+    <Content Include="mb\less\metro-bootstrap\checkbox.less" />
+    <Content Include="mb\less\metro-bootstrap\code.less" />
+    <Content Include="mb\less\metro-bootstrap\dropdowns.less" />
+    <Content Include="mb\less\metro-bootstrap\forms.less" />
+    <Content Include="mb\less\metro-bootstrap\hero-unit.less" />
+    <Content Include="mb\less\metro-bootstrap\icons.less" />
+    <Content Include="mb\less\metro-bootstrap\labels-badges.less" />
+    <Content Include="mb\less\metro-bootstrap\metro-bootstrap.less" />
+    <Content Include="mb\less\metro-bootstrap\navbar.less" />
+    <Content Include="mb\less\metro-bootstrap\navs.less" />
+    <Content Include="mb\less\metro-bootstrap\pager.less" />
+    <Content Include="mb\less\metro-bootstrap\pagination.less" />
+    <Content Include="mb\less\metro-bootstrap\progress-bars.less" />
+    <Content Include="mb\less\metro-bootstrap\radio.less" />
+    <Content Include="mb\less\metro-bootstrap\thumbnails.less" />
+    <Content Include="mb\less\metro-bootstrap\tiles.less" />
+    <Content Include="mb\less\metro-bootstrap\type.less" />
+    <Content Include="mb\less\metro-bootstrap\variables.less" />
+    <Content Include="mb\less\metro-bootstrap\wells.less" />
+    <Content Include="mb\less\mixins.less" />
+    <Content Include="mb\less\modals.less" />
+    <Content Include="mb\less\navbar.less" />
+    <Content Include="mb\less\navs.less" />
+    <Content Include="mb\less\pager.less" />
+    <Content Include="mb\less\pagination.less" />
+    <Content Include="mb\less\popovers.less" />
+    <Content Include="mb\less\progress-bars.less" />
+    <Content Include="mb\less\reset.less" />
+    <Content Include="mb\less\responsive-1200px-min.less" />
+    <Content Include="mb\less\responsive-767px-max.less" />
+    <Content Include="mb\less\responsive-768px-979px.less" />
+    <Content Include="mb\less\responsive-navbar.less" />
+    <Content Include="mb\less\responsive-utilities.less" />
+    <Content Include="mb\less\responsive.less" />
+    <Content Include="mb\less\scaffolding.less" />
+    <Content Include="mb\less\sprites.less" />
+    <Content Include="mb\less\tables.less" />
+    <Content Include="mb\less\thumbnails.less" />
+    <Content Include="mb\less\tooltip.less" />
+    <Content Include="mb\less\type.less" />
+    <Content Include="mb\less\utilities.less" />
+    <Content Include="mb\less\variables.less" />
+    <Content Include="mb\less\wells.less" />
+    <Content Include="mb\LICENSE" />
+    <Content Include="mb\README.md" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+      <Project>{12b89e1b-c660-45f8-8b60-6ee63ef7ed71}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
+      <Project>{1f78367a-91fe-4d8f-bc4c-2fd585131f65}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaReglas\CapaReglas.csproj">
+      <Project>{abe94400-2cc6-45dd-9c8e-fb9478a5fafa}</Project>
+      <Name>CapaReglas</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>53004</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

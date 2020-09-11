@@ -1,0 +1,97 @@
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\WebVentas\bin\WebVentas.dll
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\WebVentas\bin\WebVentas.pdb
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\WebVentas\bin\CapaDatos.dll
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\WebVentas\bin\CapaEntidad.dll
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\WebVentas\bin\CapaReglas.dll
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\WebVentas\bin\CapaDatos.pdb
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\WebVentas\bin\CapaEntidad.pdb
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\WebVentas\bin\CapaReglas.pdb
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\WebVentas\obj\Debug\WebVentas.csprojResolveAssemblyReference.cache
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\WebVentas\obj\Debug\WebVentas.dll
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\WebVentas\obj\Debug\WebVentas.pdb
+C:\Users\-Dabiddo\Desktop\Empezando con web form\WebVentas\WebVentas\bin\itextsharp.xml
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\WebVentas\bin\WebVentas.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\WebVentas\bin\WebVentas.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\WebVentas\bin\CapaEntidad.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\WebVentas\bin\CapaReglas.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\WebVentas\bin\CapaDatos.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\WebVentas\bin\CapaEntidad.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\WebVentas\bin\CapaReglas.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\WebVentas\bin\itextsharp.xml
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\WebVentas\bin\CapaDatos.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\WebVentas\obj\Debug\WebVentas.csprojResolveAssemblyReference.cache
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\WebVentas\obj\Debug\WebVentas.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\WebVentas\WebVentas\obj\Debug\WebVentas.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\WebVentas\bin\WebVentas.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\WebVentas\bin\WebVentas.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaEntidad.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaReglas.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaDatos.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaEntidad.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaReglas.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaDatos.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\WebVentas\obj\Debug\WebVentas.csprojResolveAssemblyReference.cache
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\WebVentas\obj\Debug\WebVentas.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (4)\AplicacionGiantronic\WebVentas\WebVentas\obj\Debug\WebVentas.pdb
+F:\AplicacionGiantronic\WebVentas\WebVentas\bin\WebVentas.dll
+F:\AplicacionGiantronic\WebVentas\WebVentas\bin\WebVentas.pdb
+F:\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaDatos.dll
+F:\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaEntidad.dll
+F:\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaReglas.dll
+F:\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaDatos.pdb
+F:\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaEntidad.pdb
+F:\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaReglas.pdb
+F:\AplicacionGiantronic\WebVentas\WebVentas\obj\Debug\WebVentas.csprojResolveAssemblyReference.cache
+F:\AplicacionGiantronic\WebVentas\WebVentas\obj\Debug\WebVentas.dll
+F:\AplicacionGiantronic\WebVentas\WebVentas\obj\Debug\WebVentas.pdb
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\WebVentas\bin\WebVentas.dll
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\WebVentas\bin\WebVentas.pdb
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaDatos.dll
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaEntidad.dll
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaReglas.dll
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaDatos.pdb
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaEntidad.pdb
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\WebVentas\bin\CapaReglas.pdb
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\WebVentas\obj\Debug\WebVentas.csprojResolveAssemblyReference.cache
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\WebVentas\obj\Debug\WebVentas.dll
+C:\Users\-Dabiddo\Desktop\AplicacionGiantronic\WebVentas\WebVentas\obj\Debug\WebVentas.pdb
+C:\Users\suite-b302\Desktop\WebVentas\WebVentas\bin\WebVentas.dll
+C:\Users\suite-b302\Desktop\WebVentas\WebVentas\bin\WebVentas.pdb
+C:\Users\suite-b302\Desktop\WebVentas\WebVentas\bin\CapaDatos.dll
+C:\Users\suite-b302\Desktop\WebVentas\WebVentas\bin\CapaEntidad.dll
+C:\Users\suite-b302\Desktop\WebVentas\WebVentas\bin\CapaReglas.dll
+C:\Users\suite-b302\Desktop\WebVentas\WebVentas\bin\CapaDatos.pdb
+C:\Users\suite-b302\Desktop\WebVentas\WebVentas\bin\CapaEntidad.pdb
+C:\Users\suite-b302\Desktop\WebVentas\WebVentas\bin\CapaReglas.pdb
+C:\Users\suite-b302\Desktop\WebVentas\WebVentas\obj\Debug\WebVentas.csprojResolveAssemblyReference.cache
+C:\Users\suite-b302\Desktop\WebVentas\WebVentas\obj\Debug\WebVentas.dll
+C:\Users\suite-b302\Desktop\WebVentas\WebVentas\obj\Debug\WebVentas.pdb
+C:\Users\suite-b302\Desktop\Final Giantronic\WebVentas\WebVentas\bin\WebVentas.dll
+C:\Users\suite-b302\Desktop\Final Giantronic\WebVentas\WebVentas\bin\WebVentas.pdb
+C:\Users\suite-b302\Desktop\Final Giantronic\WebVentas\WebVentas\bin\CapaDatos.dll
+C:\Users\suite-b302\Desktop\Final Giantronic\WebVentas\WebVentas\bin\CapaEntidad.dll
+C:\Users\suite-b302\Desktop\Final Giantronic\WebVentas\WebVentas\bin\CapaReglas.dll
+C:\Users\suite-b302\Desktop\Final Giantronic\WebVentas\WebVentas\bin\CapaDatos.pdb
+C:\Users\suite-b302\Desktop\Final Giantronic\WebVentas\WebVentas\bin\CapaEntidad.pdb
+C:\Users\suite-b302\Desktop\Final Giantronic\WebVentas\WebVentas\bin\CapaReglas.pdb
+C:\Users\suite-b302\Desktop\Final Giantronic\WebVentas\WebVentas\obj\Debug\WebVentas.csprojResolveAssemblyReference.cache
+C:\Users\suite-b302\Desktop\Final Giantronic\WebVentas\WebVentas\obj\Debug\WebVentas.dll
+C:\Users\suite-b302\Desktop\Final Giantronic\WebVentas\WebVentas\obj\Debug\WebVentas.pdb
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\bin\WebVentas.dll
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\bin\WebVentas.pdb
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\bin\CapaDatos.dll
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\bin\CapaEntidad.dll
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\bin\CapaReglas.dll
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\bin\CapaDatos.pdb
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\bin\CapaEntidad.pdb
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\bin\CapaReglas.pdb
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\obj\Debug\WebVentas.csprojResolveAssemblyReference.cache
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\obj\Debug\WebVentas.dll
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\obj\Debug\WebVentas.pdb
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\obj\Debug\WebVentas.csprojAssemblyReference.cache
+C:\Users\EdgarHumbertoAngelMi\Desktop\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\obj\Debug\WebVentas.csproj.CoreCompileInputs.cache
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\obj\Debug\WebVentas.csprojAssemblyReference.cache
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\obj\Debug\WebVentas.csproj.CoreCompileInputs.cache
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\obj\Debug\WebVentas.dll
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\obj\Debug\WebVentas.pdb
+C:\Users\EdgarHumbertoAngelMi\Documents\aplicacicones 2 asp net\Final Giantronic\WebVentas\WebVentas\obj\Debug\WebVentas.csprojResolveAssemblyReference.cache

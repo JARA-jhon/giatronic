@@ -1,0 +1,8 @@
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (9)\MyChat\MyChat.Server\bin\Debug\MyChat.Server.exe
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (9)\MyChat\MyChat.Server\bin\Debug\MyChat.Server.pdb
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (9)\MyChat\MyChat.Server\bin\Debug\Spike.Runtime.dll
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (9)\MyChat\MyChat.Server\obj\Debug\MyChat.Server.csprojResolveAssemblyReference.cache
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (9)\MyChat\MyChat.Server\obj\Debug\MyChat.Properties.Resources.resources
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (9)\MyChat\MyChat.Server\obj\Debug\MyChat.Server.csproj.GenerateResource.Cache
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (9)\MyChat\MyChat.Server\obj\Debug\MyChat.Server.exe
+C:\Users\-Dabiddo\Desktop\Nueva carpeta (9)\MyChat\MyChat.Server\obj\Debug\MyChat.Server.pdb
